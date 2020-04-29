@@ -11,7 +11,7 @@
 <li><code>$ ls</code></li>
 <li><code>$ python2 dark.py</code></li>
 <ul>
-<li><code> Silahkan buka lewat gogle chroom! </code></li>
+<li><code> Silahkan buka lewat gogle chrome! </code></li>
 <li><code> Username & Password  :https://cyberinfo25.blogspot.com/2020/04/cara-hack-akun-facebook-dengan-kali.html  </code></li>
 </ul>
 <br />
