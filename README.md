@@ -6,14 +6,14 @@
 <li><code>$ pip2 install mechanize</code></li>
 <li><code>$ pip2 install requests</code></li>
 <li><code>$ pkg install git</code></li>
-<li><code>$ git clone https://github.com/SansBae/New-Elite-v1.3</code></li>
-<li><code>$ cd New-Elite-v1.3</code></li>
+<li><code>$ git clone https://github.com/SansBae/new-elite-2.0</code></li>
+<li><code>$ cd new-elite-v2.0</code></li>
 <li><code>$ ls</code></li>
-<li><code>$ python2 dark.py</code></li>
+<li><code>$ python2 darkfb.py</code></li>
 <ul>
 <li><code> Silahkan buka lewat gogle chrome! </code></li>
-<li><code> Username & Password  :https://cyberinfo25.blogspot.com/2020/04/cara-hack-akun-facebook-dengan-kali.html  </code></li>
+<li><code> Username & Password  :https://duit.cc/NSfgxm  </code></li>
 </ul>
 <br />
 <br />
-<img src="https://github.com/SansBae/New-Elite-v1.3/blob/master/Screenshot_2020-04-30-08-16-33-32.png" />
+<img src="https://github.com/SansBae/new-elite-v2.0/blob/master/Screenshot_2020-05-26-13-42-20-31.png" />
